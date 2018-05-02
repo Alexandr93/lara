@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Alexandr93 <shurik.g93@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
